@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hamid
 
-<!--
-**mhamid49/mhamid49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there, I'm Hamid<br>
+🖤 I love JavaScript and Python<br>
+📊 I'm Full Stack Developer<br>
+👀️ I'm looking to collaborate on open source.<br>
+🌎 You can reach me on [LinkedIn](https://www.linkedin.com/in/hamid49/).<br>
 
-Here are some ideas to get you started:
+This is my life's motto:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```sh
+function wtfjs() {
+    /* eslint no-console: "error" */
+    console.log("b" + "a" + + "a" + "a")
+    // "baNaNa"
+}
+```
