@@ -1,12 +1,12 @@
 # Hamid
 
-👋 Hi there, I'm Hamid
-🖤 I love JavaScript and Python
-📊 I'm Full Stack Developer
-👀️ I'm looking to collaborate on open source.
-🌎 You can reach me on [LinkedIn](https://www.linkedin.com/in/hamid49/).
+👋 Hi there, I'm Hamid<br>
+🖤 I love JavaScript and Python<br>
+📊 I'm Full Stack Developer<br>
+👀️ I'm looking to collaborate on open source.<br>
+🌎 You can reach me on [LinkedIn](https://www.linkedin.com/in/hamid49/).<br>
 
-This is my life's motto:
+This is my life's motto:<br>
 
 ```js
 function wtfjs() {
@@ -16,5 +16,5 @@ function wtfjs() {
 }
 ```
 
-Phone: 127.0.0.1
-Address: localhost:3000
+Phone: 127.0.0.1<br>
+Address: localhost:3000<br>
