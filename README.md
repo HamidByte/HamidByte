@@ -1,14 +1,14 @@
 # Hamid
 
-👋 Hi there, I'm Hamid<br>
-🖤 I love JavaScript and Python<br>
-📊 I'm Full Stack Developer<br>
-👀️ I'm looking to collaborate on open source.<br>
-🌎 You can reach me on [LinkedIn](https://www.linkedin.com/in/hamid49/).<br>
+👋 Hi there, I'm Hamid
+🖤 I love JavaScript and Python
+📊 I'm Full Stack Developer
+👀️ I'm looking to collaborate on open source.
+🌎 You can reach me on [LinkedIn](https://www.linkedin.com/in/hamid49/).
 
 This is my life's motto:
 
-```sh
+```js
 function wtfjs() {
     /* eslint no-console: "error" */
     console.log("b" + "a" + + "a" + "a")
