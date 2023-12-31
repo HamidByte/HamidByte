@@ -16,5 +16,5 @@ function wtfjs() {
 }
 ```
 
-Phone: 127.0.0.1<br>
-Address: localhost:3000<br>
+📞 Phone Number: 127.0.0.1<br>
+🏠 Address: localhost:3000<br>
